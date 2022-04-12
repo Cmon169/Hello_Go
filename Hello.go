@@ -10,6 +10,7 @@ func main() {
 	fmt.Println("Try one more line!!!!1")
 	fmt.Println("One more.")
 	fmt.Println("Bye")
+	fmt.Println("Have a nice evening")
 }
 
 // Add a line of comment
