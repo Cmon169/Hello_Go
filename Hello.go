@@ -9,7 +9,6 @@ func main() {
 	fmt.Println("See me fly!!!!")
 	fmt.Println("Try one more line!!!!1")
 	fmt.Println("One more.")
-	fmt.Println("Bye")
 
 }
 
